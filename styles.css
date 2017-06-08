@@ -177,3 +177,20 @@ border: 1px solid #ccf;
 div.fc_msgs_author{
 display: none;
 }
+
+.box_controls .flat_button.secondary, .flat_button.secondary.button_light{
+background: #555;
+color: white;
+}
+
+.box_controls .flat_button.secondary:hover, .flat_button.secondary.button_light:hover{
+background: #777;
+}
+
+.im-page_classic.im-page .im-chat-history-resize{
+background: #ddd;
+}
+
+.nim-dialog:not(.nim-dialog_deleted).nim-dialog_muted.nim-dialog_selected, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_selected{
+background: #555;
+}
