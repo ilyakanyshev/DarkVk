@@ -35,6 +35,7 @@ $("div.page_cover.crisp_image._page_cover").height((200*width/795)+'px');
 if (document.getElementById('page_header')) {
 document.getElementById('page_header').style.width = '960px';
 } 
+$('.im-right-menu').css({right: auto});
 if (document.getElementById('dev_top_nav')) {
 document.getElementById('dev_top_nav').style.width ='960px'; 
 }
