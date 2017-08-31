@@ -3,7 +3,7 @@
 #ts_wrap{padding-left: calc(100% - 1444px)}
 #page_body{calc(100% - 176px);}
 #page_layout{width: calc(100% - 284px);}
-.im-right-menu{right:calc(100% - 1765px);}
+.im-right-menu{right:0px;}
 .im-page_classic.im-page{width: calc(100% - 238px);}
 .im-page_classic.im-page .im-page--header, .im-page_classic .im-page--chat-header, .im-page_classic.im-page .im-page--chat-input{max-width:none; width:calc(100% - 689px);}
 .im-chat-input.im-chat-input_classic .im-chat-input--textarea{width:calc(100% - 87px);}
