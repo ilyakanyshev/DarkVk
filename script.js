@@ -21,7 +21,7 @@ document.getElementById('dev_top_nav').style.width ='calc(100% - 284px)';
 }
 var width1 = document.body.offsetWidth;
 var width2 = document.getElementById('page_header').offsetWidth;
-$('.im-right-menu').css("margin-right: "+(width1-width2)/2+"px");
+$('.im-right-menu').css({right: (width1-width2)/2+"px"});
 
 if (document.getElementById('page_layout')) {
 document.getElementById('page_layout').style.width = 'calc(100% - 284px)'; 
