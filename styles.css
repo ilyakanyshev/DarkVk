@@ -233,3 +233,4 @@ background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F
 .dev_method_view_page .dev_page_cont_wrap, .no_wrap_cont .dev_page_cont_wrap{width: 100%;}
 .dev_method_block, .dev_page_cont_wrap{width: 100%;}
 body.dev input.dev_top_input{background-color: #FFF;}
+.dev_joined_blocks .dev_page_block{width:calc(50% - 10px);}
