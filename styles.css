@@ -1,4 +1,5 @@
 @media screen and (min-width: 1292px) {
+.im-page_classic.im-page .im-page--mess-search{width: calc(100% - 690px);}
 .wall_text .page_post_sized_thumbs:last-child,.page_post_sized_thumbs,.page_gif_large{margin-left: calc(50% - 260px);}
 #page_header{width: 100%;}
 #ts_wrap{padding-left: calc(100% - 1444px)}
