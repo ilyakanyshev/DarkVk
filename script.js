@@ -54,5 +54,4 @@ var width = document.getElementById('page_layout').offsetWidth;
 $("#audio_layer_tt").width(width-169+'px');
 $('._audio_page_content_block_wrap.audio_page_content_block_wrap.ui_scroll_container.ui_scroll_default_theme').css({width:'100%'})
 },100);
-};
 
