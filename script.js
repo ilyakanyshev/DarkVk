@@ -1,3 +1,5 @@
+
+
 setInterval(function(){
 if (document.getElementById('wide_column')) {
 var width = document.getElementById('wide_column').offsetWidth;
